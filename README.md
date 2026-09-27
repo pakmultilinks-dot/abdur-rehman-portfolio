@@ -7,4 +7,4 @@ Personal portfolio of Abdur Rehman, a Lahore-based generalist working across Pyt
 ## Tech
 Single self-contained static HTML file (index.html). No build step — deploy as-is on any static host.
 ## Live site
-<fill in the Vercel URL after deployment>
+https://abdur-rehman-portfolio.vercel.app
